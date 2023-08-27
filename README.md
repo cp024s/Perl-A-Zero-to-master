@@ -42,7 +42,7 @@ Each day of the program will have a specific focus and learning objectives. You'
 
 - **Perl Documentation**: Official Perl documentation is an excellent resource for in-depth information on Perl features and functions.
 - **Online Tutorials**: [Tutorials Point](https://www.tutorialspoint.com/perl/index.htm), [Geeks for Geeks](https://www.geeksforgeeks.org/perl-tutorial-learn-perl-with-examples), [PerlTutorial.org](https://www.perltutorial.org)
-- **Perl Community**: Join Perl forums, mailing lists, or communities for support and networking.
+- **Perl Community**: [Join Perl forums, mailing lists, or communities for support and networking](https://www.perl.org/community.html)
 - **Projects**: Apply what you've learned by working on real-world projects or contributing to open-source projects.
 
 ## Completion
